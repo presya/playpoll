@@ -26,3 +26,5 @@ DB 설정
 ===
 * Run As > Spring Boot App (권장)
 * Run As > Java Application
+
+hello!!
